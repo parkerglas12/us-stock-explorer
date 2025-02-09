@@ -15,4 +15,4 @@ This application is intended for personal use only, per the yfinance library rul
 
 ## License
 
-[MIT] (LICENSE)
+[MIT](LICENSE)
